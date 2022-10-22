@@ -1,0 +1,53 @@
+{
+    "signup": {
+        "name": "Higor de Jesus Torres",
+        "cpf": "08697654376",
+        "email": "higor@gmail.com",
+        "whatsapp": "1199546709",
+        "address": {
+            "postalcode": "73065242",
+            "street": "AR 24 Conjunto 1",
+            "number": "10",
+            "details": "Apartamento Nº 78",
+            "district": "Setor Oeste (Sobradinho II)",
+            "city_state": "Brasília/DF"
+
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "João Henrique Torres",
+        "cpf": "08#976543Ah",
+        "email": "PEdro@gmail.com",
+        "whatsapp": "1199546709",
+        "address": {
+            "postalcode": "73065242",
+            "street": "AR 24 Conjunto 1",
+            "number": "10",
+            "details": "Apartamento Nº 78",
+            "district": "Setor Oeste (Sobradinho II)",
+            "city_state": "Brasília/DF"
+
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Higor de Jesus Torres",
+        "cpf": "08697654376",
+        "email": "higor.com.br",
+        "whatsapp": "1199546709",
+        "address": {
+            "postalcode": "73065242",
+            "street": "AR 24 Conjunto 1",
+            "number": "10",
+            "details": "Apartamento Nº 78",
+            "district": "Setor Oeste (Sobradinho II)",
+            "city_state": "Brasília/DF"
+
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        }
+}
